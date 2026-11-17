@@ -1,0 +1,23 @@
+# Virtual environment
+bias/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Generated files
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+models/
+.streamlit/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
